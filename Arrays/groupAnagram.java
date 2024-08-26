@@ -1,3 +1,7 @@
+package Arrays;
+
+import java.util.*;
+
 public class groupAnagram {
     public List<List<String>> groupAnagrams(String[] strs) {
         List<List<String>> result = new ArrayList<>();
